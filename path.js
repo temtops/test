@@ -8,3 +8,7 @@ console.log(extname(''))
 console.log(__dirname)
 console.log(__filename)
 
+function setTime(){
+    console.log('Hello World')
+    
+}
